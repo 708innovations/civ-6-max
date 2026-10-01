@@ -1,0 +1,7 @@
+# Mod Buddy & Visual Studio build outputs
+*.user
+*.suo
+*.cache
+bin/
+obj/
+.vs/

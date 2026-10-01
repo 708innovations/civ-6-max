@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="BUILDING_LITTER_BOX" Kind="KIND_BUILDING" />
+	</Types>
+	<Buildings>
+		<Row BuildingType="BUILDING_LITTER_BOX" Name="LOC_BUILDING_LITTER_BOX_NAME" PrereqDistrict="DISTRICT_CITY_CENTER" TraitType="TRAIT_CIVILIZATION_BUILDING_LITTER_BOX" PurchaseYield="YIELD_GOLD" Cost="100" AdvisorType="ADVISOR_GENERIC"/>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_LITTER_BOX" YieldType="YIELD_CULTURE" YieldChange="3"/>
+	</Building_YieldChanges>
+</GameData>

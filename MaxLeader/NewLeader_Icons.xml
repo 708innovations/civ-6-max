@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconDefinitions>
+		<Row Name="ICON_BUILDING_LITTER_BOX" Atlas="ICON_ATLAS_BUILDINGS" Index="0"/>
+		<Row Name="ICON_CIVILIZATION_FELINE" Atlas="ICON_ATLAS_CIVILIZATIONS" Index="0"/>
+		<Row Name="ICON_LEADER_JASPER_KITTY" Atlas="ICON_ATLAS_LEADERS" Index="0"/>
+	</IconDefinitions>
+</GameData>

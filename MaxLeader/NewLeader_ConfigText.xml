@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_FELINE_NAME" Language="en_US">
+			<Text>The Felines</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
+			<Text>The Majestic Felines</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FELINE_ADJECTIVE" Language="en_US">
+			<Text>Feline</Text>
+		</Row>
+		
+		<Row Tag="LOC_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Jasper Kitty</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_NAME" Language="en_US">
+			<Text>Cat like reflexes</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
+			<Text>So fast!</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Kitty Claws</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>So sharp!</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_LITTER_BOX_NAME" Language="en_US">
+			<Text>Litter Box</Text>
+		</Row>
+		
+		<Row Tag="LOC_BUILDING_LITTER_BOX_DESCRIPTION" Language="en_US">
+			<Text>The litter box is a unique building that only Felines get.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
