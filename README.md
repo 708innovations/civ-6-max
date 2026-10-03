@@ -42,21 +42,21 @@ A custom Civilization VI mod introducing **Max** as a playable leader, complete 
   - **Does not consume** a unit charge.
   - Steals and awards one of three random silverware products to the civilization:
 
-| Product | Yield / Effect |
-| :--- | :--- |
-| **Fork** | +2 Culture |
-| **Spoon** | +2 Science |
+| Product   | Yield / Effect         |
+| :-------- | :--------------------- |
+| **Fork**  | +2 Culture             |
+| **Spoon** | +2 Science             |
 | **Plate** | +1 Culture, +1 Science |
 
 ### Product Sets & Amenities
 
 Storing complete silverware services within the same city unlocks tiered **Amenity** bonuses:
 
-| Tier | Required Silverware in City | Amenity Bonus |
-| :--- | :--- | :--- |
-| **Loaded** | 1 Fork, 1 Spoon, 1 Plate | **+1 Amenity** |
+| Tier             | Required Silverware in City | Amenity Bonus    |
+| :--------------- | :-------------------------- | :--------------- |
+| **Loaded**       | 1 Fork, 1 Spoon, 1 Plate    | **+1 Amenity**   |
 | **Fully Loaded** | 2 Forks, 2 Spoons, 2 Plates | **+2 Amenities** |
-| **Overloaded** | 3 Forks, 3 Spoons, 3 Plates | **+3 Amenities** |
+| **Overloaded**   | 3 Forks, 3 Spoons, 3 Plates | **+3 Amenities** |
 
 ---
 
@@ -74,15 +74,15 @@ Unlocks the exclusive City Center district project **Make Egg Drop Soup**.
 
 ### Granary Synergy & Project Discount
 
-- **Permanent Granary Growth:** Every completion of *Make Egg Drop Soup* permanently adds **+1 Food** to the host city's **Granary** (stacks up to a maximum of **+3 Food**).
+- **Permanent Granary Growth:** Every completion of _Make Egg Drop Soup_ permanently adds **+1 Food** to the host city's **Granary** (stacks up to a maximum of **+3 Food**).
 
-- **Speed Milestone:** Once the Granary bonus reaches **+3 Food**, the *Make Egg Drop Soup* project production cost is permanently halved (requires only **50% standard production** to complete).
+- **Speed Milestone:** Once the Granary bonus reaches **+3 Food**, the _Make Egg Drop Soup_ project production cost is permanently halved (requires only **50% standard production** to complete).
 
 ---
 
 ## Unique District: The Dylan
 
-*Replaces the standard Neighborhood district.*
+_Replaces the standard Neighborhood district._
 
 - **Housing:** **+200 Housing** (virtually unlimited urban capacity).
 - **Amenities:** **-2 Amenities** (extreme urban unrest).
@@ -94,7 +94,7 @@ Unlocks the exclusive City Center district project **Make Egg Drop Soup**.
 
 ### Naked Homeless Man
 
-*A scaling, immortal melee-infiltrator unit available throughout history.*
+_A scaling, immortal melee-infiltrator unit available throughout history._
 
 - **Availability & Capacity:**
   - Gain **+1 Homeless Man capacity** at the start of each Era (starting in the **Ancient Era**).
@@ -121,7 +121,7 @@ Unlocks the exclusive City Center district project **Make Egg Drop Soup**.
 
 ### Nuclear Satellite
 
-*Replaces the Observation Balloon.*
+_Replaces the Observation Balloon._
 
 - **Class:** Support-class air unit (immune to standard surface attacks; can only be targeted by air combat or anti-air defenses).
 - **Prerequisites:** Unlocked with **Astronomy**.
@@ -139,20 +139,20 @@ Unlocks the exclusive City Center district project **Make Egg Drop Soup**.
 
 ### Soup Kitchen
 
-*Unlocked with the **Craftsmanship** civic.*
+_Unlocked with the **Craftsmanship** civic._
 
 - **Unit Buffs:**
   - **+30% Production** towards constructing Naked Homeless Men.
   - Naked Homeless Men receive **+50 EXP** upon being built.
 - **Respawn Point:** Serves as a valid resurrection anchor for defeated Naked Homeless Men (respawn with 1 HP).
-- **Project Synergy:** Enhances the *Make Egg Drop Soup* project:
+- **Project Synergy:** Enhances the _Make Egg Drop Soup_ project:
   - Cities within a 6-tile radius receive **+20% Food** for 6 turns upon project completion (replacing the base +10%).
 
 ---
 
 ### Shitbucks Coffee
 
-*Unlocked with the **Capitalism** civic.*
+_Unlocked with the **Capitalism** civic._
 
 - **Commercial Transit Buff:**
   - Any military unit (**both friendly and enemy**) that enters a Shitbucks Coffee tile can spend **10 Gold** to receive **+2 Movement** for **10 turns**.
